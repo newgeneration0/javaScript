@@ -30,4 +30,6 @@
 //     console.log('Ibrahim')
 // })()
 
+const add = 'ibrahim'
+
 
