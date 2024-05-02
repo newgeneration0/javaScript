@@ -1,0 +1,55 @@
+[
+    {
+        "id": 1,
+
+        "name": "Orient Vita Pro 28\"",
+        "price": "284.00",
+        "inventory": 4,
+        "productCode": "K2403" 
+    },
+
+    {
+        "id": 2,
+
+        "name": "Orient Vita Pro 29\"",
+        "price": "284.00",
+        "inventory": 5,
+        "productCode": "K2103"
+    },
+
+    {
+        "id": 3,
+
+        "name": "Orient Vita Pro 50\"",
+        "price": "250.00",
+        "inventory": 6,
+        "productCode": "K9003"
+    },
+
+    {
+        "id": 4,
+
+        "name": "Orient Vita Pro 44\"",
+        "price": "300.00",
+        "inventory": 1,
+        "productCode": "K103"
+    },
+
+    {
+        "id": 5,
+
+        "name": "Orient Vita Pro 29\"",
+        "price": "584.00",
+        "inventory": 7,
+        "productCode": "K703"
+    },
+
+    {
+        "id": 6,
+
+        "name": "Orient Vita Pro 30\"",
+        "price": "984.00",
+        "nventory": 9,
+        "productCode": "K503"
+    }
+]

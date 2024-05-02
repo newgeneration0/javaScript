@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+
+
+    <script>
+        let Number1 = parseFloat(prompt("Enter number1: "))
+        let Operator = prompt("Enter operation either +, -, *, / :")
+        let Number2 = parseFloat(prompt("Enter number2:"))
+
+        let result;
+
+        if(Operator == "+"){
+            result = Number1 + Number2
+        }
+        else if(Operator == "-"){
+            result = Number1 - Number2
+        }
+        else if(Operator == "*"){
+            result = Number1 * Number2
+        }
+        else{
+            result = Number1 / Number2
+        }
+
+        console.log(Number1 + Operator + Number2 + "=" + result)
+
+        console.log(`${Number1} ${Operator} ${Number2} = ${result}`)
+        
+
+    </script>
+</body>
+</html>
